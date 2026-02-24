@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Lakshy/OneDrive/Desktop/dsaPreparation/v1/patterns-part1",
-      "program": "c:/Users/Lakshy/OneDrive/Desktop/dsaPreparation/v1/patterns-part1/build/Debug/outDebug",
+      "cwd": "c:/Users/Lakshy/OneDrive/Desktop/dsaPreparation/v0--my-revision/my-pattern-rev",
+      "program": "c:/Users/Lakshy/OneDrive/Desktop/dsaPreparation/v0--my-revision/my-pattern-rev/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
